@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Ayasofya",
+    "lat": 41.0086,
+    "lon": 28.9802,
+    "theme": "Tarihi Yerler",
+    "rating": 4.8,
+    "popularity": 98,
+    "description": "İstanbul'un simgesi, 537'de inşa edilen anıtsal yapı."
+  },
+  {
+    "id": 2,
+    "name": "Topkapı Sarayı",
+    "lat": 41.0115,
+    "lon": 28.9834,
+    "theme": "Tarihi Yerler",
+    "rating": 4.6,
+    "popularity": 92,
+    "description": "Osmanlı padişahlarının yönetim ve yaşam merkezi."
+  },
+  {
+    "id": 3,
+    "name": "Galata Kulesi",
+    "lat": 41.0256,
+    "lon": 28.9744,
+    "theme": "Kültürel",
+    "rating": 4.5,
+    "popularity": 90,
+    "description": "Şehir manzarası sunan ortaçağ kulesi."
+  },
+  {
+    "id": 4,
+    "name": "Kız Kulesi",
+    "lat": 41.0211,
+    "lon": 29.0041,
+    "theme": "Kültürel",
+    "rating": 4.4,
+    "popularity": 88,
+    "description": "Boğaz'daki efsanevi kule."
+  },
+  {
+    "id": 5,
+    "name": "Belgrad Ormanı",
+    "lat": 41.1885,
+    "lon": 28.988,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.5,
+    "popularity": 70,
+    "description": "İstanbul'un kuzeyinde yürüyüş ve bisiklet rotaları."
+  },
+  {
+    "id": 6,
+    "name": "Şile Plajı",
+    "lat": 41.175,
+    "lon": 29.612,
+    "theme": "Deniz/Plaj Tatili",
+    "rating": 4.2,
+    "popularity": 65,
+    "description": "Karadeniz kıyısında kumsal ve deniz feneri."
+  },
+  {
+    "id": 7,
+    "name": "Troya Antik Kenti",
+    "lat": 39.9575,
+    "lon": 26.239,
+    "theme": "Tarihi Yerler",
+    "rating": 4.5,
+    "popularity": 80,
+    "description": "Homeros destanlarının geçtiği antik kent."
+  },
+  {
+    "id": 8,
+    "name": "Assos",
+    "lat": 39.4881,
+    "lon": 26.3381,
+    "theme": "Tarihi Yerler",
+    "rating": 4.6,
+    "popularity": 72,
+    "description": "Athena Tapınağı ve taş sokaklarıyla ünlü liman."
+  },
+  {
+    "id": 9,
+    "name": "Alaçatı Plajı",
+    "lat": 38.2707,
+    "lon": 26.3777,
+    "theme": "Deniz/Plaj Tatili",
+    "rating": 4.4,
+    "popularity": 85,
+    "description": "Rüzgar sörfü için ünlü koy."
+  },
+  {
+    "id": 10,
+    "name": "Efes Antik Kenti",
+    "lat": 37.9394,
+    "lon": 27.3417,
+    "theme": "Tarihi Yerler",
+    "rating": 4.8,
+    "popularity": 96,
+    "description": "Celsus Kütüphanesi ve Büyük Tiyatro."
+  },
+  {
+    "id": 11,
+    "name": "Pamukkale",
+    "lat": 37.9203,
+    "lon": 29.1187,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.7,
+    "popularity": 95,
+    "description": "Travertenler ve antik Hierapolis."
+  },
+  {
+    "id": 12,
+    "name": "Ölüdeniz",
+    "lat": 36.5497,
+    "lon": 29.1167,
+    "theme": "Deniz/Plaj Tatili",
+    "rating": 4.8,
+    "popularity": 97,
+    "description": "Turkuaz lagün, yamaç paraşütü merkezi."
+  },
+  {
+    "id": 13,
+    "name": "Kelebekler Vadisi",
+    "lat": 36.5057,
+    "lon": 29.1339,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.6,
+    "popularity": 78,
+    "description": "Falezlerle çevrili doğal vadi."
+  },
+  {
+    "id": 14,
+    "name": "Patara Plajı",
+    "lat": 36.2647,
+    "lon": 29.312,
+    "theme": "Deniz/Plaj Tatili",
+    "rating": 4.7,
+    "popularity": 80,
+    "description": "18 km'lik doğal kumsal ve antik kent."
+  },
+  {
+    "id": 15,
+    "name": "Saklıkent Kanyonu",
+    "lat": 36.4633,
+    "lon": 29.42,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.5,
+    "popularity": 76,
+    "description": "Yürüyüş ve rafting için derin kanyon."
+  },
+  {
+    "id": 16,
+    "name": "Kaputaş Plajı",
+    "lat": 36.2286,
+    "lon": 29.4522,
+    "theme": "Deniz/Plaj Tatili",
+    "rating": 4.7,
+    "popularity": 89,
+    "description": "Falezler arasında turkuaz koy."
+  },
+  {
+    "id": 17,
+    "name": "İztuzu Plajı",
+    "lat": 36.8025,
+    "lon": 28.6183,
+    "theme": "Deniz/Plaj Tatili",
+    "rating": 4.6,
+    "popularity": 82,
+    "description": "Caretta caretta yuvalama alanı."
+  },
+  {
+    "id": 18,
+    "name": "Mevlana Müzesi",
+    "lat": 37.8719,
+    "lon": 32.5047,
+    "theme": "Kültürel",
+    "rating": 4.6,
+    "popularity": 84,
+    "description": "Mevlana Celaleddin-i Rumi'nin türbesi."
+  },
+  {
+    "id": 19,
+    "name": "Anıtkabir",
+    "lat": 39.925,
+    "lon": 32.8369,
+    "theme": "Tarihi Yerler",
+    "rating": 4.9,
+    "popularity": 93,
+    "description": "Atatürk'ün anıt mezarı."
+  },
+  {
+    "id": 20,
+    "name": "Ankara Kalesi",
+    "lat": 39.941,
+    "lon": 32.8645,
+    "theme": "Tarihi Yerler",
+    "rating": 4.3,
+    "popularity": 60,
+    "description": "Ankara'nın tarihi çekirdeği."
+  },
+  {
+    "id": 21,
+    "name": "Göreme (Kapadokya)",
+    "lat": 38.6431,
+    "lon": 34.8289,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.9,
+    "popularity": 99,
+    "description": "Peri bacaları ve balon turları."
+  },
+  {
+    "id": 22,
+    "name": "Ihlara Vadisi",
+    "lat": 38.2681,
+    "lon": 34.3051,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.6,
+    "popularity": 68,
+    "description": "Kaya kiliseleriyle doğa yürüyüşü."
+  },
+  {
+    "id": 23,
+    "name": "Göbeklitepe",
+    "lat": 37.2231,
+    "lon": 38.9224,
+    "theme": "Tarihi Yerler",
+    "rating": 4.7,
+    "popularity": 91,
+    "description": "Bilinen en eski tapınak yapıları."
+  },
+  {
+    "id": 24,
+    "name": "Nemrut Dağı",
+    "lat": 37.9808,
+    "lon": 38.7408,
+    "theme": "Tarihi Yerler",
+    "rating": 4.7,
+    "popularity": 83,
+    "description": "Dev heykellerle Kommagene krallığı."
+  },
+  {
+    "id": 25,
+    "name": "Sümela Manastırı",
+    "lat": 40.6903,
+    "lon": 39.6586,
+    "theme": "Tarihi Yerler",
+    "rating": 4.6,
+    "popularity": 87,
+    "description": "Kayalıklara oyulmuş Rum Ortodoks manastırı."
+  },
+  {
+    "id": 26,
+    "name": "Uzungöl",
+    "lat": 40.6197,
+    "lon": 40.2939,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.5,
+    "popularity": 86,
+    "description": "Dağlarla çevrili göl ve yayla köyü."
+  },
+  {
+    "id": 27,
+    "name": "Ayder Yaylası",
+    "lat": 40.9575,
+    "lon": 41.1094,
+    "theme": "Doğa/Doğa Sporları",
+    "rating": 4.7,
+    "popularity": 79,
+    "description": "Rafting, yayla turizmi ve kaplıcalar."
+  }
+]
